@@ -1,0 +1,2 @@
+# Grid-Search-to-find-the-best-model-and-the-best-parameters
+Using Grid Search to find the best model and the best parameters. splitted the data in to training and testing sets. performed features scaling. Trained the Kernel SVM model on the Training set. Checked the accuracy score by using confusion matrix. Applied k-Fold Cross Validation &amp; visualized the training and testing results using matplotlib.
